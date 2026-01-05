@@ -8,8 +8,6 @@ const observable: Observable<number> = new Observable((subscriber) => {
       }
 });
 
-//test note
-
 /**
  * Basic pipe operator
  * modifies each value emitted from the observable
